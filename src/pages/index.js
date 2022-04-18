@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Google Student Developer Club - KSU</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
