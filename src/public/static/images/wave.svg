@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="198">
+  <defs>
+    <linearGradient id="a" x1="50%" x2="50%" y1="-10.959%" y2="100%">
+      <stop stop-color="#90caf9ff" stop-opacity=".25" offset="0%"/>
+      <stop stop-color="#42a5f5ff" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#a)" fill-rule="evenodd" d="M.005 121C311 121 409.898-.25 811 0c400 0 500 121 789 121v77H0s.005-48 .005-77z" transform="matrix(-1 0 0 1 1600 0)"/>
+</svg>
+
+<!-- <svg xmlns="http://www.w3.org/2000/svg" id="svg" class="transition duration-300 ease-in-out delay-150" viewBox="0 109.32 1440 290.68"><defs><linearGradient id="gradient" x1="50%" y1="100%" x2="50%" y2="0%"><stop offset="5%" stop-color="#42a5f5ff"></stop><stop offset="95%" stop-color="#90caf9ff"></stop></linearGradient></defs><path d="M 0,400 C 0,400 0,200 0,200 C 69.16746411483251,244.69856459330143 138.33492822966502,289.39712918660285 239,271 C 339.665071770335,252.60287081339715 471.82775119617224,171.11004784688993 586,134 C 700.1722488038278,96.88995215311007 796.354066985646,104.16267942583735 873,139 C 949.645933014354,173.83732057416265 1006.7559808612441,236.23923444976072 1098,251 C 1189.244019138756,265.7607655502393 1314.622009569378,232.88038277511964 1440,200 C 1440,200 1440,400 1440,400 Z" stroke="none" stroke-width="0" fill="url(#gradient)"   class="transition-all duration-300 ease-in-out delay-150 path-0" ></path></svg> -->
+
+
+<!-- <svg width="100%" height="100%" id="svg" viewBox="0 0 1440 400" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150"><defs><linearGradient id="gradient" x1="50%" y1="100%" x2="50%" y2="0%"><stop offset="5%" stop-color="#42a5f5ff"></stop><stop offset="95%" stop-color="#90caf9ff"></stop></linearGradient></defs><path d="M 0,400 C 0,400 0,200 0,200 C 69.16746411483251,244.69856459330143 138.33492822966502,289.39712918660285 239,271 C 339.665071770335,252.60287081339715 471.82775119617224,171.11004784688993 586,134 C 700.1722488038278,96.88995215311007 796.354066985646,104.16267942583735 873,139 C 949.645933014354,173.83732057416265 1006.7559808612441,236.23923444976072 1098,251 C 1189.244019138756,265.7607655502393 1314.622009569378,232.88038277511964 1440,200 C 1440,200 1440,400 1440,400 Z" stroke="none" stroke-width="0" fill="url(#gradient)" class="transition-all duration-300 ease-in-out delay-150 path-0"></path></svg> -->
+
+
+
+<!-- <svg width="100%" height="100%" id="svg" viewBox="0 0 1440 600" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150"><defs><linearGradient id="gradient" x1="50%" y1="100%" x2="50%" y2="0%"><stop offset="5%" stop-color="#90caf9ff"></stop><stop offset="95%" stop-color="#46a8f6ff"></stop></linearGradient></defs><path d="M 0,600 C 0,600 0,300 0,300 C 148.35714285714283,269.25 296.71428571428567,238.5 417,270 C 537.2857142857143,301.5 629.4999999999999,395.25 747,384 C 864.5000000000001,372.75 1007.2857142857142,256.5 1127,225 C 1246.7142857142858,193.5 1343.357142857143,246.75 1440,300 C 1440,300 1440,600 1440,600 Z" stroke="none" stroke-width="0" fill="url(#gradient)" class="transition-all duration-300 ease-in-out delay-150 path-0"></path></svg> -->
